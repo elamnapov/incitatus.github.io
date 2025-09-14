@@ -3,8 +3,8 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #f5f5f5;
-  color: #333;
+  background-color: #2c2b2b;
+  color: #eee;
 }
 
 .container {
@@ -14,8 +14,8 @@ body {
 }
 
 .site-header {
-  background-color: #2d2d2d;
-  color: white;
+  background-color: #140831;
+  color: #eee;
   padding: 20px 0;
 }
 
